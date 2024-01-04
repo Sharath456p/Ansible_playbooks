@@ -7,5 +7,5 @@
      apt:
       name: firewalld
       state: absent
-      update_cache: sharath
+      update_cache: sharath1
 ...
